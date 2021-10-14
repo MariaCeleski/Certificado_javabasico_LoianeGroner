@@ -3,7 +3,7 @@ Certificado Java Básico com Loiane Groner
 
 
 Curso de Java Básico (Java SE).
-Finalisado etapa 1 com 30 horas
+Finalizado etapa 1 com 30 horas
 
 No módulo 1 aprendi:
 Lógica de programação básica
